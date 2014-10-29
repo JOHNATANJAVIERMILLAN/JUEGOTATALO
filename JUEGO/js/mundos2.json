@@ -1,0 +1,44 @@
+ [
+		{
+			"dimensiones": 9,
+			 "posAvismos": [[1,5], [3,1], [3,4], [5,4], [0,4], [6,5]],
+			"posWumpus": [[1,2],[8,7]],
+			"posOro": [[0,3]], 
+			"posAventurero": [8, 4], 
+			"tiempo ": 120, 
+			"vidas" : 6
+		    },
+		    {"dimensiones":"6",
+		    "posAvismos":[[3,5],[4,3],[3,1],[5,1],[1,0],[1,2],[2,4]],
+		    "posWumpus":[[0,4]],
+		    "posOro":[[0,5]],
+		    "posAventurero":[4,0],
+		    "tiempo ": 120, 
+			"vidas" : 5
+		     },
+		     {"dimensiones":"8",
+		    "posAvismos":[[1,4],[0,7],[3,4],[2,5],[5,5],[5,2],[0,0],[2,2],[6,7],[7,5]],
+	        "posWumpus":[[3,2]],
+		    "posOro":[[0,5]],
+		    "posAventurero":[7,0] ,
+		     "tiempo ": 120, 
+			"vidas" : 5
+		     },
+		    {
+             "dimensiones":"10",
+             "posAvismos":[[8,2],[6,0],[6,3],[4,1],[2,1],[0,3],[1,7],[4,8],[7,7],[9,7],[8,5],[1,4],[2,6],[0,0],[9,9]],
+              "posWumpus":[[7,1]],
+              "posOro":[[9,0]],
+              "posAventurero":[4,5],
+              "tiempo ": 120, 
+			  "vidas" : 5
+		     },
+             {
+             	"dimensiones":"4",
+               "posAvismos":[[1,3],[2,1],[0,0]],
+               "posWumpus":[[2,2]],
+               "posAventurero":[3,0] ,
+               "tiempo ": 120, 
+			  "vidas" : 5
+		     }
+]

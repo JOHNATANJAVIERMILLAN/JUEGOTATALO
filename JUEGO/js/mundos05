@@ -1,0 +1,12 @@
+[
+		
+{"dimensiones":"4",
+"posAvismos":[[1,3],[2,1],[0,0]],[3,3]],
+"posWumpus":[[0,2]],"posOro":[[0,3]],
+"posAventurero":[3,0]}
+ "tiempo ": 120, 	
+ "vidas" : 6
+
+},
+		    
+]
